@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>632256168381-7bvmd7h6d6fk0jd1k123umf7og7gvdoo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.632256168381-7bvmd7h6d6fk0jd1k123umf7og7gvdoo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBq3AnuPR5M0jeGUXx8XvMCHm2Ln-Qh9uw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>632256168381</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.hotelio.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>hotelio-82e23</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hotelio-82e23.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:632256168381:ios:273ccc04f3bb97c41c52d4</string>
+</dict>
+</plist>
